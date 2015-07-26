@@ -1,0 +1,88 @@
+
+.jumbotron {
+  background-image:url('http://i.imgur.com/vanLsqK.jpg');
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.jumbotron .container {
+  top:200px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 94px;  
+  font-family: 'Shift', helvetica;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 35px;
+  color: #fff;
+  margin-left: 100;
+}
+
+.jumbotron a {
+    font-size: 30px;
+}
+
+.neighborhood-guides {
+    background-color: #efefef;
+    border-bottom: 2px solid #dbdbdb;
+	border-top: 2px solid #dbdbdb;
+	height: 800px;
+}
+
+.neighborhood-guides h1 {
+    color: #393c3d;
+    font-size: 36px;
+	text-align: center;
+	font-weight:bold;
+}
+
+.neighborhood-guides p {
+    font-size: 20px;
+    margin-bottom: 13px;
+	text-align: center;
+	margin-top: -15px;
+}
+
+.button-learn-more {
+
+	color: white;
+	border-radius: 4px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.2);
+	background: rgb(66,184,221);
+}
+
+.thumbnail {
+
+	height:323px;
+	width:480px;
+}
+
+.nav {
+	border-radius: 15px;
+	background: #fff;
+	width: 520px;
+	height: 60px;
+
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 13px;
+  font-weight: bold;
+  padding: 40px 31px;
+  text-transform: uppercase;
+  margin-left: -45px;
+}
+
+.nav li {
+	display: inline;
+
+}
+
